@@ -18,6 +18,9 @@ $\text{\color{#7b8745} always c+h, cudcomf }$
 
 <img src="https://file.garden/aW26Bw2LYQfOzvvc/tumblr_307ef865b1c087d93feed1b89b8d8c07_90760854_250.webp" width="100">
 
+
+![](https://komarev.com/ghpvc/?username=averytmayo&style=flat-square&color=7b8745&label=my+duo+is+doomed+bro)
+
 <div align="center">
 
 </div></b></p>
