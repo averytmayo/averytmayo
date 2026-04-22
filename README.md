@@ -12,7 +12,7 @@
 
 <img src="https://file.garden/aW26Bw2LYQfOzvvc/dervery/Avery_Artistic_Render.webp" width="160"> <img src="https://file.garden/aW26Bw2LYQfOzvvc/dervery/D3rLord3_Artistic_Render.webp" width="160">
 
-$\text{\color{#7b8745} avery/aves 19}$\
+$\text{\color{#7b8745} decaydance 19}$\
 $\text{\color{#7b8745} he/him tmasc }$\
 $\text{\color{#7b8745} always c+h, cudcomf }$
 
