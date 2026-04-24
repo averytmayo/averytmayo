@@ -6,7 +6,7 @@
 <p align="center">
 <div align="center">
 
-<img src="https://file.garden/aW26Bw2LYQfOzvvc/dervery/tumblr_b385a89fdbe7f44cff8b4c5adb57d4b9_7b52ebd8_2048.png" width="200">
+<img src="https://file.garden/aW26Bw2LYQfOzvvc/dervery/27492b2e-e6c4-4cd6-a96c-18f19dc841bc.jpg" width="200">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&pause=1000&color=7C2511&center=true&width=275&lines=%22+maybe+i+am+scared.+%22;+" alt="Typing SVG" /></a>
 
