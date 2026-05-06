@@ -8,7 +8,7 @@
 
 <img src="https://file.garden/aW26Bw2LYQfOzvvc/holyterminal/image_2026-04-26_193540012.png" width="100">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&duration=2000&pause=1000&color=7C2511&center=true&vCenter=true&width=535&lines=don't+you+try+me!;don't+take+it+lightly!;i%E2%80%99m+nothing+but+a+ghost%2C;at+the+most.;you+shattered+my+mind;one+thousand+times.;i%E2%80%99m+broken%2C+yet+somehow%2C+I%E2%80%99m+still+alive.;you+left+me+covered+in+gold." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&duration=2000&pause=1000&color=7C2511&center=true&vCenter=true&width=535&lines=don't+you+try+me!;don't+take+it+lightly!;i%E2%80%99m+nothing+but+a+ghost%2C;at+the+most.;you+shattered+my+mind;one+thousand+times.;i%E2%80%99m+broken%2C+yet+somehow%2C+i%E2%80%99m+still+alive.;you+left+me+covered+in+gold." alt="Typing SVG" /></a>
 
 <img src="https://file.garden/aW26Bw2LYQfOzvvc/dervery/D3rLord3_Artistic_Render.webp" width="160">
 
